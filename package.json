@@ -1,0 +1,11 @@
+{
+  "name": "guawang-zhengba",
+  "private": true,
+  "type": "commonjs",
+  "description": "瓜王争霸：原生 JavaScript 与 Canvas 水果合成小游戏",
+  "scripts": {
+    "test": "node tests/bot-test.js",
+    "test:soak": "node tests/soak-test.js",
+    "test:audit": "node tests/audit-play.js"
+  }
+}
