@@ -6,6 +6,15 @@
 
 项目使用原生 JavaScript 与 Canvas，直接对接抖音小游戏 `tt` API。除了基础合成，还加入特殊球、局内天赋、主动技能和局外成长，围绕同一个掉落动作形成不同玩法节奏。
 
+## 界面预览
+
+<p>
+  <img src="docs/images/overview.png" width="280" alt="项目界面">
+  <img src="docs/images/detail.png" width="280" alt="功能界面">
+</p>
+
+当前游戏源码在浏览器适配环境中运行的截图，非抖音真机画面。
+
 ## 核心玩法
 
 1. 点击屏幕控制水果落点。
